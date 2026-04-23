@@ -8,7 +8,7 @@ To get an OR team to sign off on using a commercial powder, the proposal must so
 
 To establish a surgical protocol for the immediate post-extraction treatment of ballistic bone cavities using a high-viscosity, mineral-dense paste to achieve instant hemostasis and provide localized metabolic support for osteogenesis.
 
-### Phase 1: Controlled Extraction**
+### Phase 1: Controlled Extraction
 
 -   **Setting:** Operating Room under fluoroscopic guidance.
 
@@ -16,7 +16,7 @@ To establish a surgical protocol for the immediate post-extraction treatment of 
 
 -   **Preparation:** The tract is flushed, and necrotic tissue is debrided, leaving a clean cavity for the compound.
 
-### Phase 2: Compound Sterilization and Preparation**
+### Phase 2: Compound Sterilization and Preparation
 
 -   *This is the critical step for OR approval.* Because the source material is a commercial Nutricost powder, it cannot be brought directly into the sterile field.
 
@@ -26,7 +26,7 @@ To establish a surgical protocol for the immediate post-extraction treatment of 
 
 -   **Viscosity Calculation:** The mixture is compounded at a precise ratio to achieve a thick, putty-like viscosity that will not wash out when exposed to arterial or venous bleeding.
 
-### Phase 3: Delivery and Hemostasis**
+### Phase 3: Delivery and Hemostasis
 
 -   **Equipment:** A large-bore, surgical-grade Toomey syringe (60cc) or a dedicated dual-chamber trauma applicator. This replaces commercial silicone squeezers and provides the necessary high-pressure, one-handed deployment.
 
@@ -50,7 +50,7 @@ Here are the next two critical sections for the surgical proposal, drafted in or
 
 To achieve the correct hemostatic "plug" effect, the compounded mixture must exhibit non-Newtonian, shear-thinning properties. This means the paste will flow smoothly when subjected to the high pressure of the syringe but will immediately solidify into a high-viscosity putty when the pressure is released, preventing it from washing out in an actively bleeding cavity.
 
-**1\. Calculating the Defect Volume ($V_{cavity}$)**
+**1\. Calculating the Defect Volume ($V_{cavity}$)
 
 The surgical team will estimate the volume of the ballistic tract using a standard cylindrical volume formula:
 
