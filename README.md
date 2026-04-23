@@ -4,11 +4,11 @@ To get an OR team to sign off on using a commercial powder, the proposal must so
 
 ### Proposal Outline: Intraoperative Application of Ca-Mg-Zn Hemostatic Matrix for Ballistic Bone Trauma
 
-**1\. Objective**
+**Objective**
 
 To establish a surgical protocol for the immediate post-extraction treatment of ballistic bone cavities using a high-viscosity, mineral-dense paste to achieve instant hemostasis and provide localized metabolic support for osteogenesis.
 
-**2\. Phase 1: Controlled Extraction**
+### Phase 1: Controlled Extraction**
 
 -   **Setting:** Operating Room under fluoroscopic guidance.
 
@@ -16,7 +16,7 @@ To establish a surgical protocol for the immediate post-extraction treatment of 
 
 -   **Preparation:** The tract is flushed, and necrotic tissue is debrided, leaving a clean cavity for the compound.
 
-**3\. Phase 2: Compound Sterilization and Preparation**
+### Phase 2: Compound Sterilization and Preparation**
 
 -   *This is the critical step for OR approval.* Because the source material is a commercial Nutricost powder, it cannot be brought directly into the sterile field.
 
@@ -26,7 +26,7 @@ To establish a surgical protocol for the immediate post-extraction treatment of 
 
 -   **Viscosity Calculation:** The mixture is compounded at a precise ratio to achieve a thick, putty-like viscosity that will not wash out when exposed to arterial or venous bleeding.
 
-**4\. Phase 3: Delivery and Hemostasis**
+### Phase 3: Delivery and Hemostasis**
 
 -   **Equipment:** A large-bore, surgical-grade Toomey syringe (60cc) or a dedicated dual-chamber trauma applicator. This replaces commercial silicone squeezers and provides the necessary high-pressure, one-handed deployment.
 
